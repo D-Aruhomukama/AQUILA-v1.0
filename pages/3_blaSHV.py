@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import pickle
-from fpdf import FPDF
 import joblib
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
