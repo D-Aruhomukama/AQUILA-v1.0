@@ -4,16 +4,6 @@ requests
 scikit-learn
 SciPy
 seaborn
-simplejson
 matplotlib
-six
-smmap
-soupsieve
-stack-data
 streamlit
-toml
-tqdm
-xdg
-xgboost
-xkit
 pandas==2.2
