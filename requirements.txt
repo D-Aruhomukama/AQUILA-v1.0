@@ -1,9 +1,7 @@
 numpy==1.26.4
-pandas==2.1.4+dfsg
+pandas
 pillow==10.2.0
-python-apt==2.7.7+ubuntu5
-python-dateutil==2.8.2
-python-debian==0.1.49+ubuntu2
+python
 reportlab==4.1.0
 requests==2.31.0
 scikit-learn==1.4.1.post1
@@ -14,7 +12,7 @@ six==1.16.0
 smmap==5.0.2
 soupsieve==2.5
 stack-data==0.6.3
-streamlit==1.51.0
+streamlit
 toml==0.10.2
 tqdm==0.0.0
 xdg==5
